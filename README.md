@@ -1,5 +1,5 @@
 # BranchDressing
-make story branches and pull requests visible during development
+<img src="BranchDressing.png" width="125" /> make story branches and pull requests visible during development
 
 # License
 MIT License
